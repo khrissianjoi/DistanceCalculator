@@ -1,0 +1,16 @@
+{
+  "name": "distancecalculator",
+  "description": "",
+  "main": "distancecalculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Khrissian Joi Neuda",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "yargs": "^13.2.4"
+  }
+}
